@@ -1,4 +1,4 @@
-package multithreaded_programming;
+package multithreaded_programming.chap1;
 
 /**
  * @description: 守护线程

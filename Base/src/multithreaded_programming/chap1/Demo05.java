@@ -1,4 +1,4 @@
-package multithreaded_programming;
+package multithreaded_programming.chap1;
 
 /**
  * @description: 使用Thread继承的方式开发多线程应用程序是有局限的，

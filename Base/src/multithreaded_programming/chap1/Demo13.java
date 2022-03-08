@@ -1,4 +1,4 @@
-package multithreaded_programming;
+package multithreaded_programming.chap1;
 
 /**
  * @description:    停止线程
@@ -22,7 +22,7 @@ public class Demo13 {
         进入ThreadDeath的catch
         java.lang.ThreadDeath
             at java.lang.Thread.stop(Thread.java:853)
-            at multithreaded_programming.Demo13.main(Demo13.java:16)
+            at multithreaded_programming.chap1.Demo13.main(Demo13.java:16)
     * */
 }
 

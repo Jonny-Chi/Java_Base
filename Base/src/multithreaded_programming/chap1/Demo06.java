@@ -1,4 +1,4 @@
-package multithreaded_programming;
+package multithreaded_programming.chap1;
 
 /**
  * @description:成员变量与线程安全

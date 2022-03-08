@@ -1,4 +1,4 @@
-package multithreaded_programming;
+package multithreaded_programming.chap1;
 
 /**
  * @description:    当线程在sleep中时，调用interrupt会怎么样呢？
