@@ -3,7 +3,7 @@ package multithreaded_programming;
 /**
  * @description: 线程常用API - isAlive
  *                      判断当前的线程是否处于活动状态
- * @author: Joe
+ * @author: Jonny
  * @time: 2022/3/1 4:32 下午
  */
 public class Demo09 {

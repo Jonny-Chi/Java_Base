@@ -3,7 +3,7 @@ package multithreaded_programming;
 /**
  * @description:成员变量与线程安全
  *                  不共享数据
- * @author: Joe
+ * @author: Jonny
  * @time: 2022/3/1 8:44 上午
  */
 public class Demo06 {

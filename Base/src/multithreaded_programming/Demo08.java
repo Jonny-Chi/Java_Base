@@ -3,7 +3,7 @@ package multithreaded_programming;
 /**
  * @description: 线程常用API - currentThread方法
 *                       返回代码正在那个线程调用的详细信息
- * @author: Joe
+ * @author: Jonny
  * @time: 2022/3/1 9:09 上午
  */
 public class Demo08 {

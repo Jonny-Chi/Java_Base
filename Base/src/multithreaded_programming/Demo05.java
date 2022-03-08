@@ -4,7 +4,7 @@ package multithreaded_programming;
  * @description: 使用Thread继承的方式开发多线程应用程序是有局限的，
  *               Java是单继承，为了改变这种限抽，
  *               可以使用Runnable接口方式来实现多线程。
- * @author: Joe
+ * @author: Jonny
  * @time: 2022/3/1 8:03 上午
  */
 public class Demo05 {

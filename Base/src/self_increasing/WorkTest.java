@@ -2,7 +2,7 @@ package self_increasing;
 
 /**
  * @description: 字符串根据字符拆分成数组
- * @author: Joe
+ * @author: Jonny
  * @time: 2022/2/17 10:35 上午
  */
 public class WorkTest {

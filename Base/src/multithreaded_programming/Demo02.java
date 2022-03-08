@@ -2,7 +2,7 @@ package multithreaded_programming;
 
 /**
  * @description: 继承Thread
- * @author: Joe
+ * @author: Jonny
  * @time: 2022/2/28 4:34 下午
  */
 public class Demo02 {

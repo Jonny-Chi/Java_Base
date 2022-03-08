@@ -3,7 +3,7 @@ package multithreaded_programming;
 /**
  * @description: 线程常用API - getId
  *  *                      获取当前线程的唯一标识
- * @author: Joe
+ * @author: Jonny
  * @time: 2022/3/1 9:23 下午
  */
 public class Demo11 {
