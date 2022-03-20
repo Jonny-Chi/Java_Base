@@ -66,6 +66,13 @@ class Demo25Thread extends Thread{
         long count = 0;
         Random r = new Random();
         for (int i = 0; i < 100; i++) {
+//            if (Thread.currentThread().getPriority() > 5) {
+//                try {
+//                    Thread.sleep(0);
+//                } catch (InterruptedException e) {
+//                    e.printStackTrace();
+//                }
+//            }
             for (int j = 0; j < 500000; j++) {
                 count += i * j + r.nextInt() ;
             }
